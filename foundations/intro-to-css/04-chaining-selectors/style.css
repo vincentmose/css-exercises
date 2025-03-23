@@ -3,9 +3,15 @@
 .avatar, .proportioned{
     width: 300px;
     height: auto;
+
 }
 
-.avatar, .distorted{
+.avatar1, .distorted{
     width: 200px;
-    height: 200%;
+    height: 400px;
+}
+
+.proportioned{
+
+
 }
