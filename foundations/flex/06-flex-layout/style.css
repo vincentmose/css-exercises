@@ -46,6 +46,7 @@ input {
 
 a {
   text-decoration: none;
+  color: rgb(83, 83, 83);
 }
 
 .content{
@@ -55,6 +56,10 @@ a {
   gap: 8px;
 }
 
-.buttons{
+button {
   padding: 8px;
+}
+
+.footer{
+  background-color: rgb(236, 236, 236);
 }
